@@ -1,0 +1,8 @@
+MI GYM - INSTRUCCIONES
+1. Descomprime el ZIP.
+2. Publica el CONTENIDO de la carpeta mi-gym en un hosting estatico gratuito con HTTPS (por ejemplo GitHub Pages o Cloudflare Pages). No hace falta base de datos ni cuenta para los usuarios.
+3. Abre la URL HTTPS publicada en Safari del iPhone.
+4. Pulsa Compartir > Anadir a pantalla de inicio > Anadir.
+5. Abre la app desde ese icono y registra ejercicios.
+6. En la pestana Datos, exporta periodicamente una copia JSON y guardala en Archivos/iCloud Drive. Puedes importarla si cambias de telefono.
+NOTAS: Los datos no se sincronizan entre dispositivos. Borrar los datos del navegador puede eliminar el historial. No se ha publicado automaticamente; necesitas un alojamiento HTTPS. Las guias contienen esquemas simbolicos y consejos, no animaciones reales. Sin costes obligatorios de software; el hosting gratuito depende de sus terminos y limites.
